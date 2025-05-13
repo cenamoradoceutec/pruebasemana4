@@ -1,6 +1,6 @@
 
 import ReadingList from './Component/ListaLectura';
-import { ReadingProvider } from './Context/LecturaContext';
+import { ReadingProvider } from './Provider/ReadingProvider';
 
 
 export default function Home() {

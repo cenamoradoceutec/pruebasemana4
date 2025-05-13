@@ -1,3 +1,5 @@
+"use client";
+
 import { useContext } from 'react';
 import { ReadingContext } from '../Context/LecturaContext';
 
